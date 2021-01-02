@@ -9,7 +9,7 @@ export default function Gallery() {
       <div className="container mx-auto px-5">
         <div className="flex flex-col items-center">
 
-          <p className="align-center text-4xl mt-14 mb-10">Blackbird Viewing Gallery</p>
+          <p className="text-center text-2xl md:text-4xl mt-14 mb-10">Blackbird Viewing Gallery</p>
 
           <div className="grid grid-cols-1 gap-4">
             {works.map(({ title, medium, subtitle, url }) => (

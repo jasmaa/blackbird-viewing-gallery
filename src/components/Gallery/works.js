@@ -48,7 +48,7 @@ export const works = [
     url: "images/08.png",
   },
   {
-    title: 'Image of Blackbird as Viewed From the Side',
+    title: 'Image of Blackbird as Viewed from the Side',
     medium: 'Pixels on canvas',
     subtitle: 'American, 2021',
     url: "images/09.png",
