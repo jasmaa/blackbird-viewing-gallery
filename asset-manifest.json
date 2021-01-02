@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/blackbird-viewing-gallery/static/css/main.7db96328.chunk.css",
+    "main.js": "/blackbird-viewing-gallery/static/js/main.2829009d.chunk.js",
+    "main.js.map": "/blackbird-viewing-gallery/static/js/main.2829009d.chunk.js.map",
+    "runtime-main.js": "/blackbird-viewing-gallery/static/js/runtime-main.e48531fb.js",
+    "runtime-main.js.map": "/blackbird-viewing-gallery/static/js/runtime-main.e48531fb.js.map",
+    "static/css/2.b81a6ac0.chunk.css": "/blackbird-viewing-gallery/static/css/2.b81a6ac0.chunk.css",
+    "static/js/2.49403b21.chunk.js": "/blackbird-viewing-gallery/static/js/2.49403b21.chunk.js",
+    "static/js/2.49403b21.chunk.js.map": "/blackbird-viewing-gallery/static/js/2.49403b21.chunk.js.map",
+    "static/js/3.bc127dd2.chunk.js": "/blackbird-viewing-gallery/static/js/3.bc127dd2.chunk.js",
+    "static/js/3.bc127dd2.chunk.js.map": "/blackbird-viewing-gallery/static/js/3.bc127dd2.chunk.js.map",
+    "index.html": "/blackbird-viewing-gallery/index.html",
+    "static/css/2.b81a6ac0.chunk.css.map": "/blackbird-viewing-gallery/static/css/2.b81a6ac0.chunk.css.map",
+    "static/css/main.7db96328.chunk.css.map": "/blackbird-viewing-gallery/static/css/main.7db96328.chunk.css.map",
+    "static/js/2.49403b21.chunk.js.LICENSE.txt": "/blackbird-viewing-gallery/static/js/2.49403b21.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e48531fb.js",
+    "static/css/2.b81a6ac0.chunk.css",
+    "static/js/2.49403b21.chunk.js",
+    "static/css/main.7db96328.chunk.css",
+    "static/js/main.2829009d.chunk.js"
+  ]
+}
